@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Vehículo autónomo App</string>
+    <string name="title_home">Inicio</string>
+    <string name="title_dashboard">Mapa</string>
+    <string name="title_notifications">Configuración</string>
+</resources>
